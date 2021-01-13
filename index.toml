@@ -14,7 +14,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/craftpresence.properties"
-hash = "6be0d4cf39e46b16a07f54eca0e5dd586055debe50fa17fdf793f0e36deb8c51"
+hash = "d32387afe5ab3ede4fc34aceee484831a073b11a403921c1e2b7f23f09c39da5"
 
 [[files]]
 file = "config/eldritch_mobs.json5"
