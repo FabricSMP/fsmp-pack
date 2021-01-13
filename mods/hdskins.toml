@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://github.com/MineLittlePony/HDSkins/releases/download/v6.3.4-mc1.16.4/HDSkins-6.3.4-1.16.4.jar"
-hash-format = "SHA256"
+hash-format = "sha256"
 hash = "994de94d14a8b1b4e430fbc0e45bb50c8ba624368a1a38df3e3fc5cbaa3410e3"
