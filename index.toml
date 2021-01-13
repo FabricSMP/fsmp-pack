@@ -89,6 +89,10 @@ file = "config/couplings.json"
 hash = "f083bed99182a2c99cec92fa5c1f03b2a97103cb9c16eec3335078c735dfc33c"
 
 [[files]]
+file = "config/craftpresence.properties"
+hash = "6be0d4cf39e46b16a07f54eca0e5dd586055debe50fa17fdf793f0e36deb8c51"
+
+[[files]]
 file = "config/croptopia/options.json"
 hash = "b0c6eff98c3858f77bbe7b12a147ed7e566ecced26840944e7199dbf1e7c6d74"
 
@@ -340,6 +344,11 @@ metafile = true
 [[files]]
 file = "mods/couplings-for-fabric-updated.toml"
 hash = "296dd73743cac284b9f0b5863feb0a0a27f046ebb91cbd21d64f55f999812480"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.toml"
+hash = "a98ba4c728234d7b3cc6feca71e79381023ef39912422c570abeeb084f06532e"
 metafile = true
 
 [[files]]
