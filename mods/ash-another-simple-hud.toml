@@ -1,0 +1,19 @@
+name = "ASH - Another Simple HUD"
+filename = "ash-1.1.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3179/468/ash-1.1.13.jar"
+hash-format = "murmur2"
+hash = "4188540017"
+
+[option]
+optional = true
+description = "Small coordinates/compass in corner. Maybe don't use if already using minimap."
+default = false
+
+[update]
+[update.curseforge]
+file-id = 3179468
+project-id = 316452
+release-channel = "beta"

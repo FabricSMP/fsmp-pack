@@ -36,6 +36,11 @@ hash = "0880860c85bd27a629f6210aab0f2cd878d6d228d755da796c1bf5ff132f9330"
 metafile = true
 
 [[files]]
+file = "mods/ash-another-simple-hud.toml"
+hash = "2fa233bec1e421d824045a9584a3dc2371aee13de01dafb6810f199a451823a5"
+metafile = true
+
+[[files]]
 file = "mods/bedspreads-fabric.toml"
 hash = "c85c950c882ad8f957926dc1f010f0b022a03a31b7390cd1adf79ce35ebd0747"
 metafile = true
@@ -72,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/campanion.toml"
-hash = "88745ac7b0b718ce5eaf95b93169e9f9e92ab1f57e97c1e21cda0e8c1f904d0a"
+hash = "f8177e28b964fb825733ffcf664dd9e06aa2193f4eec98e79d2e59f6cb9d3d19"
 metafile = true
 
 [[files]]
@@ -236,6 +241,11 @@ hash = "07ac50827f79f963da74e9caf60c0431f00255b96f315804a444b347e5f851d5"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles.toml"
+hash = "bcaf0cb78c43c11031f9d9201e365e9392b17597e7b05ea01a0a71e898814baf"
+metafile = true
+
+[[files]]
 file = "mods/item-scroller.toml"
 hash = "d672d5010ae18d454ef5cb6a3b7a5be73301a440232e8c1da4eeeb0901e7fbc6"
 metafile = true
@@ -277,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherite-plus-mod.toml"
-hash = "f3c82bedbc8501e526942adefec1699f9b316fd8e472a7fdb8fd0a2abf58f725"
+hash = "f74a317e382b52f4f1273efe679af56cac89a4e1194d5856350f46695aeccb21"
 metafile = true
 
 [[files]]
@@ -352,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/supernatural-crops.toml"
-hash = "74445f99f26f97b35b9db9432a2a23133f6017df11f133f55d96a0f9816cd0f9"
+hash = "4be4081d2d71561d66f2efb15f15b1bf86103a992ce3a9f2a8f3dafbb8082782"
 metafile = true
 
 [[files]]
@@ -372,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/traverse.toml"
-hash = "26b989580056e7389e67e81e58e6aaca4fceb01b2139c321c11025bcf030ca47"
+hash = "f29bd19b15120f0ff7122fd7a34340bc2ce3700f6f53bbeef9e72adb8c77ea55"
 metafile = true
 
 [[files]]
