@@ -256,6 +256,11 @@ hash = "f5a33fd31f1a870366f91b5f621017751288d8dc92eba4849e09478b99f87bcc"
 metafile = true
 
 [[files]]
+file = "mods/lint.toml"
+hash = "2a32c49c4125b337d5699a397fca8b191182328761d6aae6f06d78d7b883cb22"
+metafile = true
+
+[[files]]
 file = "mods/malilib.toml"
 hash = "65f39ab7f5b51614436d1986a9f7defc76c467d957043aa23ce59c98e4de0006"
 metafile = true

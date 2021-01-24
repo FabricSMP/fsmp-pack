@@ -1,0 +1,14 @@
+name = "Lint2"
+filename = "Lint-2.0.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3167/698/Lint-2.0.0-SNAPSHOT.jar"
+hash-format = "murmur2"
+hash = "700861142"
+
+[update]
+[update.curseforge]
+file-id = 3167698
+project-id = 373071
+release-channel = "beta"
