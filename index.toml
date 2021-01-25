@@ -221,6 +221,11 @@ hash = "44761d96cd571b878060b2bfdc86643ce6ad9f855fda3cabd40e3578e17853b9"
 metafile = true
 
 [[files]]
+file = "mods/guillotine.toml"
+hash = "1f3d48ebc518b6e9b6ac2d8dee7c43afdebfd311237a8837334c22dcbe9da3ff"
+metafile = true
+
+[[files]]
 file = "mods/gunpowder-mc.toml"
 hash = "380a77f6b7279dd8d78756bea3a02f5034eac014e9c4f17f756c38e3079ac403"
 metafile = true
@@ -268,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/microdurability.toml"
 hash = "65706222dab106053eed4c0fc587307eb8fd15cda3994a477e97b6e38f0be37f"
+metafile = true
+
+[[files]]
+file = "mods/mo-glass.toml"
+hash = "bddfd4dcebb2b051aaf999895875cad37076733174d38f68b01b61a40d7c07c0"
 metafile = true
 
 [[files]]
