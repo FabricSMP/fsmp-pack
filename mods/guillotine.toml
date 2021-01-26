@@ -3,6 +3,12 @@ filename = "guillotine-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/FaeCraft/Guillotine/releases/download/v1.0.0/guillotine-1.0.0.jar"
-hash-format = "sha256"
-hash = "0f7622f56c1757d124e954f975c290f58b77427b9530b41150262cf0a3283a1f"
+url = "https://edge.forgecdn.net/files/3179/696/guillotine-1.0.0.jar"
+hash-format = "murmur2"
+hash = "3288869173"
+
+[update]
+[update.curseforge]
+file-id = 3179696
+project-id = 439627
+release-channel = "beta"

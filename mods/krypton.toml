@@ -1,0 +1,19 @@
+name = "Krypton"
+filename = "krypton-0.1.1.jar"
+side = "both"
+
+[option]
+optional = true
+description = "Networking improvements for finicky connections"
+default = false
+
+[download]
+url = "https://edge.forgecdn.net/files/3175/469/krypton-0.1.1.jar"
+hash-format = "murmur2"
+hash = "3839985955"
+
+[update]
+[update.curseforge]
+file-id = 3175469
+project-id = 428912
+release-channel = "beta"

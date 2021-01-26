@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/eldritch-mobs.toml"
-hash = "777b7c716004a774a960e6f6ac77afaf825f414a46483bd148caae4a1e647f6d"
+hash = "90ff3e536f4dea7f48ce969b5a5362332414af621e801c7d51b5439d4bbdc817"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/guillotine.toml"
-hash = "1f3d48ebc518b6e9b6ac2d8dee7c43afdebfd311237a8837334c22dcbe9da3ff"
+hash = "9d9a4a58f37e02b85d21f3d04a70ca4dbc5aa39c04083e2c9df20a9b48764474"
 metafile = true
 
 [[files]]
@@ -256,13 +256,13 @@ hash = "d672d5010ae18d454ef5cb6a3b7a5be73301a440232e8c1da4eeeb0901e7fbc6"
 metafile = true
 
 [[files]]
-file = "mods/lil-tater-reloaded.toml"
-hash = "f5a33fd31f1a870366f91b5f621017751288d8dc92eba4849e09478b99f87bcc"
+file = "mods/krypton.toml"
+hash = "647afcabbbcf765c7475c6dddf6ae908a79424c2f044cc98cba9ba6810cd21ad"
 metafile = true
 
 [[files]]
-file = "mods/lint.toml"
-hash = "2a32c49c4125b337d5699a397fca8b191182328761d6aae6f06d78d7b883cb22"
+file = "mods/lil-tater-reloaded.toml"
+hash = "f5a33fd31f1a870366f91b5f621017751288d8dc92eba4849e09478b99f87bcc"
 metafile = true
 
 [[files]]
