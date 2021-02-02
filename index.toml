@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas.toml"
-hash = "f53c4e1327821c3fd7a4d58e68fb9c7f908de2bc775a97b4011c948e00721dd3"
+hash = "5734c75123b29b303c9fef02d4668bb145a838a3121a3af51bd1ea5265665ba3"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia-fabric.toml"
-hash = "c72ff8ced668fad75818a4c84970cbb87c088c4ff928082edc9d3412a09a16b2"
+hash = "085616ebe369d5a60b02d36689691e4feb86b43bf77c4c71166b6c6edea029bc"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-sound-filters.toml"
-hash = "cca01de090a0c44be5c4d0ad1773b226c1f435a60891a9ccae1777e41f71c4c5"
+hash = "9373ab1d43cdec897dffc6c48fda56da4de27a5a7f2869cce0ca20cbaa9a52b6"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherite-plus-mod.toml"
-hash = "f74a317e382b52f4f1273efe679af56cac89a4e1194d5856350f46695aeccb21"
+hash = "24cc4f991ba60ede624c761d320916d077effc55f558c4ad4f9d5c562c9c6cae"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph-fabric.toml"
-hash = "ed88a4b8f478340f01020380e8a6c1a81dda4fc3fda64ecf1f7f24947bbc33e0"
+hash = "eaecc8294ac562a406afd1231a49221f98e5be5894130ab0e050c717f24a3cec"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "e9fb0dbac1c9b1c25e4d7a3ca437c1212c26abd27c78eb5ed68bd8629ea81e83"
+hash = "5cbdafd2cafa39896979f8ff2d7458a5eb5e7e8b19b109dd5af28c43f8908ddc"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/supernatural-crops.toml"
-hash = "4be4081d2d71561d66f2efb15f15b1bf86103a992ce3a9f2a8f3dafbb8082782"
+hash = "5ed0230bbde541f27a11af948547bffaa1e224580f17124990c06c85b8219de2"
 metafile = true
 
 [[files]]
