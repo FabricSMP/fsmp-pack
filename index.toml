@@ -36,6 +36,11 @@ hash = "0880860c85bd27a629f6210aab0f2cd878d6d228d755da796c1bf5ff132f9330"
 metafile = true
 
 [[files]]
+file = "mods/architectury-fabric.toml"
+hash = "b7f114d3f97a5b7cf82d6886c92aaf07bcb43ecddf7232331d03874599baf118"
+metafile = true
+
+[[files]]
 file = "mods/ash-another-simple-hud.toml"
 hash = "2fa233bec1e421d824045a9584a3dc2371aee13de01dafb6810f199a451823a5"
 metafile = true
