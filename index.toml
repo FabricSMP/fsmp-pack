@@ -415,11 +415,6 @@ hash = "bb0d3af588b10b7a0f4d35f244e4fe3a4ccadf6a5b282266322dcbb879642bc2"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.toml"
-hash = "27c71d68d88fbd361342a186cc02d5d26a2e1d7430aaac0d88e3ac1b3135efde"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-caves-fabric.toml"
 hash = "35df9fea862e2443aa5f444ecfe28aa82ae5b8dd94aa05318f0fce130ab9b1a4"
 metafile = true
