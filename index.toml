@@ -13,6 +13,10 @@ file = "config/fabric-tree-chopper.json"
 hash = "afb60e78f643f1799898fb5cff238dcffe95a8c6fb016300bf3771f6d8b3fcbd"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "bf925aa167442a9b4a3d2716fe65fae5cd3497cd5a464e055491427eb65f44df"
+
+[[files]]
 file = "config/netherite_plus.json"
 hash = "e415d2902c37d14a7ca8a86669a2eae480120f37576816cc9a9d43e55c42600f"
 
@@ -22,7 +26,7 @@ hash = "7f35721dc678e75b8a81d6364ff51d451a3c22e8926522c7d7ca0bfcc6d9ac10"
 
 [[files]]
 file = "mods/adorn.toml"
-hash = "23327d7d06c4a7193c739648c88937552b6f8c05e397136ecdb2372908be0a85"
+hash = "0a5649265205dfb8861942119e7bad8889aef8d371c74faadf44b50d3d34c89a"
 metafile = true
 
 [[files]]
@@ -37,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "b7f114d3f97a5b7cf82d6886c92aaf07bcb43ecddf7232331d03874599baf118"
+hash = "8a32df65c8200fc65cf67bf0bc8d7a8e7a329e8970f48f2cd7e98fc67de61bae"
 metafile = true
 
 [[files]]
@@ -52,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-enchanted-books.toml"
-hash = "95ced31ab65cc2fa7a2a8ffd3fb1d4d8818cb1aeb2a7a2646a6ad1ba86f5b4bf"
+hash = "0a5059e17af6f475211321012a29c15b869a4695d404a270a97ffc02859a8aef"
 metafile = true
 
 [[files]]
@@ -62,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/betternether.toml"
-hash = "ccf49b2c08ac4ca50631aca1dfd7ad23d86ddeef1988ea0574d462042a1b5f5a"
+hash = "93b3f5252c5c58ba6e4cff30fab4d6e32b96f2add17b1e57e8d92f6f7ecc268a"
 metafile = true
 
 [[files]]
@@ -82,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/campanion.toml"
-hash = "f8177e28b964fb825733ffcf664dd9e06aa2193f4eec98e79d2e59f6cb9d3d19"
+hash = "afa167e22be90831c050be95436cfba6824e200bc12d07e6410ccc1e49404166"
 metafile = true
 
 [[files]]
@@ -97,12 +101,12 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.toml"
-hash = "710c13a1151f106bdbd9c1f6dffcea12bc1f97f79cc11ad1b82214d12b74dadb"
+hash = "bd8f017c1385190fd8ffa4a818eecd4b9e5a36ec4b8b57b13a28510574900e9d"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.toml"
-hash = "eb75573790f61ad86f89deb084fee4153b4bfa03850af15b10a0ba1d0a6b48ea"
+hash = "ec9078e9003fa10b8be7dca907ecbd36cd3b9e5cda53eeded635ae354a0f7b1f"
 metafile = true
 
 [[files]]
@@ -152,17 +156,17 @@ metafile = true
 
 [[files]]
 file = "mods/edit-sign.toml"
-hash = "597384565529a7215925c2904c13fd6e2448da4960bb01517b5845afd9c6d3c8"
+hash = "8cf5b093d5f04d2f14002b7ed6a648c3a0d05a27f3ef7ff3a5cbe156562c5f0a"
 metafile = true
 
 [[files]]
 file = "mods/eldritch-mobs.toml"
-hash = "90ff3e536f4dea7f48ce969b5a5362332414af621e801c7d51b5439d4bbdc817"
+hash = "659266d76b206b3d16e2426ebe7f9637468eb9030c50cf9a31600b33ce9940b4"
 metafile = true
 
 [[files]]
 file = "mods/emotecraft.toml"
-hash = "10197dfff619bb551c0ec13780fe25daeec0bc2ecf71093a6c3d4306a3a0c784"
+hash = "b04fc8710071e2a5c301e20e5b12d9f009be834749a59855e79a3c3c90e14bcc"
 metafile = true
 
 [[files]]
@@ -172,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage-fabric.toml"
-hash = "019880c973ffc082265b31b1d039cddd49ee965ac7e5bb50294ca9827286edf9"
+hash = "230e24728793e2fe9a8aeeae9a37a72cfa8342083f07ab5c30ff9e897372529c"
 metafile = true
 
 [[files]]
@@ -187,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "6adaefc0a811c66067210409334dee17f2e68320878e785854d85d9985fb6c4f"
+hash = "44490bdf3fd314096dd5063d028e448b40226b4063630ad9f9fc7e64e3762ca2"
 metafile = true
 
 [[files]]
@@ -232,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/gunpowder-mc.toml"
-hash = "380a77f6b7279dd8d78756bea3a02f5034eac014e9c4f17f756c38e3079ac403"
+hash = "97e193b8ce548b7537a7ae1aa61b0fa0b9ed5826a913dd410dbaf93944a31c49"
 metafile = true
 
 [[files]]
@@ -297,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "02d6dd2d5938dddc1fc84fb28cdabec9c16e4e21fe16e629e9779ed725a15594"
+hash = "86634064fd454014479d0cf5b0bb842412d13b5cf110921028c9666102ba3a47"
 metafile = true
 
 [[files]]
@@ -307,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherite-plus-mod.toml"
-hash = "24cc4f991ba60ede624c761d320916d077effc55f558c4ad4f9d5c562c9c6cae"
+hash = "15926e19be5a9677f6519466f327814043fae087bfd7ed49c37cda76d2008465"
 metafile = true
 
 [[files]]
@@ -352,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "5cbdafd2cafa39896979f8ff2d7458a5eb5e7e8b19b109dd5af28c43f8908ddc"
+hash = "051cd40a5dcc4b9359549a0bfa198b948d1a5e3337889dbb1dcfae0e31b12b1a"
 metafile = true
 
 [[files]]
@@ -387,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrestria.toml"
-hash = "1d93f193bb2e98c3a45453a91faf13b83246dc54e0ae06007643a5486f00553b"
+hash = "702bfe08f863681ac7d921b58acb31aa2e9a79ce35ac75354e0d0d6b0780461f"
 metafile = true
 
 [[files]]

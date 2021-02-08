@@ -1,0 +1,8 @@
+{
+	"version": 1,
+	"overrides": {
+		"slimefinder": {
+			"-depends": { "minecraft": "" }
+		}
+	}
+}

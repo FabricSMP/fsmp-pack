@@ -1,12 +1,12 @@
-name = "FSMP"
-author = "Fabric"
-version = "2.0.0"
+name = "FabricSMP"
+author = "Fabric Community"
+version = "2.0.1"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2f9aa24b6632989c1d55b0c090a4e23f8105f38ff2d8db15af9a57a4578a977f"
+hash = "2871353873f7783742b4b6a72db47b3c04a37df4793f4c1f3eeee741741de602"
 
 [versions]
-fabric = "0.10.8"
-minecraft = "1.16.4"
+fabric = "0.11.1"
+minecraft = "1.16.5"
