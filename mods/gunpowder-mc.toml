@@ -1,14 +1,14 @@
 name = "Gunpowder"
-filename = "gunpowder-base-0.3.4+1.16.4.jar"
+filename = "gunpowder-base-0.3.5+1.16.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3142/642/gunpowder-base-0.3.4+1.16.4.jar"
+url = "https://edge.forgecdn.net/files/3173/443/gunpowder-base-0.3.5+1.16.5.jar"
 hash-format = "murmur2"
-hash = "3047561713"
+hash = "1886587716"
 
 [update]
 [update.curseforge]
-file-id = 3142642
+file-id = 3173443
 project-id = 350123
 release-channel = "beta"
