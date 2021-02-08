@@ -1,6 +1,6 @@
 name = "FabricSMP"
 author = "Fabric Community"
-version = "3.0.0"
+version = "2.0.1"
 
 [index]
 file = "index.toml"
